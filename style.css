@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "Ubuntu", sans-serif;
+}
+.resume_container{
+    background-color: #904b44;
+}
+.header{
+    background-color:#e75a4c;
+}
+.vids_img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.call_icon{
+    width: 20px;
+    height: 25px;
+    
+}
+.phone_no{
+    color: #373833;
+}
